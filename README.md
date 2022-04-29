@@ -4,7 +4,7 @@ Se propone generar un formulario con Angular que permita crear, editar, modifica
 
 Para ello se puede utilizar la clase creada en la práctica de TypeScript, Persona, aunque no será necesario proporcionar los campos Dirección, Teléfono y Mail.
 
-![TablaAngular](https://user-images.githubusercontent.com/60046331/166080655-0701cc48-f629-4916-ac87-5611e69ab96e.png)
+<center>![TablaAngular](https://user-images.githubusercontent.com/60046331/166080655-0701cc48-f629-4916-ac87-5611e69ab96e.png)>/center>
 
 A la hora de crear o editar una persona será necesario realizar las siguientes validaciones sobre los datos:
 
