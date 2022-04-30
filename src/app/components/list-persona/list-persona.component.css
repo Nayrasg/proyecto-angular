@@ -1,0 +1,29 @@
+table {
+  width: 100%;
+}
+
+/*Filtro*/
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+/*Iconos editar y borrar*/
+
+.pointer {
+  cursor: pointer;
+}
+
+#edit{
+  color: #09DFE0;
+}
+#delete{
+  color: #0AC5A3;
+}
+
+/*Botón agregar*/
+
+#agregar{
+  text-align: right;
+}
